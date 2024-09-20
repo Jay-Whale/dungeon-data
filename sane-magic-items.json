@@ -1,1557 +1,1557 @@
 {
     "items": [
         {
-            "item": "+1 Armor",
+            "name": "+1 Armor",
             "price": 1500,
-            "type": "Rare",
+            "rearity": "Rare",
             "desc": "While wearing this armor, you gain a +1 bonus to AC. You are considered proficient with this armor even if you lack proficiency with medium armor."
         },
         {
-            "item": "+1 Shield",
+            "name": "+1 Shield",
             "price": 1500,
-            "type": "Uncommon",
+            "rearity": "Uncommon",
             "desc": "While holding this shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
         },
         {
-            "item": "+1 Weapon",
+            "name": "+1 Weapon",
             "price": 1000,
-            "type": "Uncommon",
+            "rearity": "Uncommon",
             "desc": "You have a +1 bonus to attack and damage rolls made with this magic weapon."
         },
         {
-            "item": "+2 Armor",
+            "name": "+2 Armor",
             "price": 6000,
-            "type": "Very Rare",
+            "rearity": "Very Rare",
             "desc": "While wearing this armor, you gain a +2 bonus to AC. You are considered proficient with this armor even if you lack proficiency with medium armor."
         },
         {
-            "item": "+2 Shield",
+            "name": "+2 Shield",
             "price": 6000,
-            "type": "Rare",
+            "rearity": "Rare",
             "desc": "While holding this shield, you gain a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
         },
         {
-            "item": "+2 Weapon",
+            "name": "+2 Weapon",
             "price": 4000,
-            "type": "Rare",
+            "rearity": "Rare",
             "desc": "You have a +2 bonus to attack and damage rolls made with this magic weapon."
         },
         {
-            "item": "+3 Armor",
+            "name": "+3 Armor",
             "price": 24000,
-            "type": "Legendary",
+            "rearity": "Legendary",
             "desc": "While wearing this armor, you gain a +3 bonus to AC. You are considered proficient with this armor even if you lack proficiency with medium armor."
         },
         {
-            "item": "+3 Shield",
+            "name": "+3 Shield",
             "price": 24000,
-            "type": "Very Rare",
+            "rearity": "Very Rare",
             "desc": "While holding this shield, you gain a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC."
         },
         {
-            "item": "+3 Weapon",
+            "name": "+3 Weapon",
             "price": 16000,
-            "type": "Very Rare",
+            "rearity": "Very Rare",
             "desc": "You have a +3 bonus to attack and damage rolls made with this magic weapon."
         },
         {
             "name": "Adamantine Armor",
             "desc": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.",
-            "type": "Armor (medium or heavy)",
+            "rearity": "Armor (medium or heavy)",
             "rarity": "uncommon",
             "price": 500
         },
         {
-            "item": "Alchemy Jug",
+            "name": "Alchemy Jug",
             "price": 6000,
-            "type": "Uncommon",
+            "rearity": "Uncommon",
             "desc": "A magical jug capable of producing various liquids, such as water, wine, and oil."
         },
         {
-            "item": "Ammunition +1 (each)",
+            "name": "Ammunition +1 (each)",
             "price": 100,
-            "type": "Uncommon",
+            "rearity": "Uncommon",
             "desc": "Enchanted ammunition that grants a +1 bonus to attack and damage rolls."
         },
         {
-            "item": "Ammunition +2 (ea)",
+            "name": "Ammunition +2 (ea)",
             "price": 100,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ammunition +3 (ea)",
+            "name": "Ammunition +3 (ea)",
             "price": 400,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Amulet of Health",
+            "name": "Amulet of Health",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Amulet of Proof Against Detection and Location",
+            "name": "Amulet of Proof Against Detection and Location",
             "price": 20000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Amulet of the Planes",
+            "name": "Amulet of the Planes",
             "price": 160000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Animated Shield",
+            "name": "Animated Shield",
             "price": 6000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Apparatus of Kwalish",
+            "name": "Apparatus of Kwalish",
             "price": 10000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Armor of Invulnerability",
+            "name": "Armor of Invulnerability",
             "price": 18000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Armor of Resistance",
+            "name": "Armor of Resistance",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Arrow of Slaying (ea)",
+            "name": "Arrow of Slaying (ea)",
             "price": 600,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Arrow-Catching Shield",
+            "name": "Arrow-Catching Shield",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Bag of Holding",
+            "name": "Bag of Holding",
             "price": 4000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Bead of Force",
+            "name": "Bead of Force",
             "price": 960,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Belt of Dwarvenkind",
+            "name": "Belt of Dwarvenkind",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Boots of Elvenkind",
+            "name": "Boots of Elvenkind",
             "price": 2500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Boots of Levitation",
+            "name": "Boots of Levitation",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Boots of Speed",
+            "name": "Boots of Speed",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Boots of Striding and Springing",
+            "name": "Boots of Striding and Springing",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Boots of the Winterlands",
+            "name": "Boots of the Winterlands",
             "price": 10000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Bowl of Commanding Water Elementals",
+            "name": "Bowl of Commanding Water Elementals",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Bracers of Archery",
+            "name": "Bracers of Archery",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Bracers of Defense",
+            "name": "Bracers of Defense",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Brass Horn of Valhalla",
+            "name": "Brass Horn of Valhalla",
             "price": 8400,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Brazier of Commanding Fire Elementals",
+            "name": "Brazier of Commanding Fire Elementals",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Bronze Griffon",
+            "name": "Bronze Griffon",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Bronze Horn of Valhalla",
+            "name": "Bronze Horn of Valhalla",
             "price": 11200,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Brooch of Shielding",
+            "name": "Brooch of Shielding",
             "price": 7500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Broom of Flying",
+            "name": "Broom of Flying",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Cap of Water Breathing",
+            "name": "Cap of Water Breathing",
             "price": 1000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Cape of the Mountebank",
+            "name": "Cape of the Mountebank",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Carpet of Flying",
+            "name": "Carpet of Flying",
             "price": 12000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Censer of Controlling Air Elementals",
+            "name": "Censer of Controlling Air Elementals",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Chime of Opening",
+            "name": "Chime of Opening",
             "price": 1500,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Circlet of Blasting",
+            "name": "Circlet of Blasting",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Cloak of Arachnida",
+            "name": "Cloak of Arachnida",
             "price": 5000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Cloak of Displacement",
+            "name": "Cloak of Displacement",
             "price": 60000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Cloak of Elvenkind",
+            "name": "Cloak of Elvenkind",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Cloak of Invisibility",
+            "name": "Cloak of Invisibility",
             "price": 80000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Cloak of Protection",
+            "name": "Cloak of Protection",
             "price": 3500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Cloak of the Bat",
+            "name": "Cloak of the Bat",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Cloak of the Manta Ray",
+            "name": "Cloak of the Manta Ray",
             "price": 6000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Crystal Ball",
+            "name": "Crystal Ball",
             "price": 50000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Cube of Force",
+            "name": "Cube of Force",
             "price": 16000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Cubic Gate",
+            "name": "Cubic Gate",
             "price": 40000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Daern's Instant Fortress",
+            "name": "Daern's Instant Fortress",
             "price": 75000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Dagger of Venom",
+            "name": "Dagger of Venom",
             "price": 2500,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Dancing Sword",
+            "name": "Dancing Sword",
             "price": 2000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Decanter of Endless Water",
+            "name": "Decanter of Endless Water",
             "price": 135000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Deck of Illusions",
+            "name": "Deck of Illusions",
             "price": 6120,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Defender",
+            "name": "Defender",
             "price": 24000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Dimensional Shackles",
+            "name": "Dimensional Shackles",
             "price": 3000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Dragon Scale Mail",
+            "name": "Dragon Scale Mail",
             "price": 4000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Dragon Slayer",
+            "name": "Dragon Slayer",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Driftglobe",
+            "name": "Driftglobe",
             "price": 750,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Dust of Disappearance",
+            "name": "Dust of Disappearance",
             "price": 300,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Dust of Dryness (1 pellet)",
+            "name": "Dust of Dryness (1 pellet)",
             "price": 120,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Dust of Sneezing and Choking",
+            "name": "Dust of Sneezing and Choking",
             "price": 480,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Dwarven Plate",
+            "name": "Dwarven Plate",
             "price": 9000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Dwarven Thrower",
+            "name": "Dwarven Thrower",
             "price": 18000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ebony Fly",
+            "name": "Ebony Fly",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Efreeti Chain",
+            "name": "Efreeti Chain",
             "price": 20000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Elemental Gem",
+            "name": "Elemental Gem",
             "price": 960,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Elixir of Health",
+            "name": "Elixir of Health",
             "price": 120,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Elven Chain",
+            "name": "Elven Chain",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Eversmoking Bottle",
+            "name": "Eversmoking Bottle",
             "price": 1000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Eyes of Charming",
+            "name": "Eyes of Charming",
             "price": 3000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Eyes of Minute Seeing",
+            "name": "Eyes of Minute Seeing",
             "price": 2500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Eyes of the Eagle",
+            "name": "Eyes of the Eagle",
             "price": 2500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Flame Tongue",
+            "name": "Flame Tongue",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Folding Boat",
+            "name": "Folding Boat",
             "price": 10000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Frost Brand",
+            "name": "Frost Brand",
             "price": 2200,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Gauntlets of Ogre Power",
+            "name": "Gauntlets of Ogre Power",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Gem of Brightness",
+            "name": "Gem of Brightness",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Gem of Seeing",
+            "name": "Gem of Seeing",
             "price": 32000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Giant Slayer",
+            "name": "Giant Slayer",
             "price": 7000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Glamoured Studded Leather",
+            "name": "Glamoured Studded Leather",
             "price": 2000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Gloves of Missile Snaring",
+            "name": "Gloves of Missile Snaring",
             "price": 3000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Gloves of Swimming and Climbing",
+            "name": "Gloves of Swimming and Climbing",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Gloves of Thievery",
+            "name": "Gloves of Thievery",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Goggles of Night",
+            "name": "Goggles of Night",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Goldean Lion (ea)",
+            "name": "Goldean Lion (ea)",
             "price": 600,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Hammer of Thunderbolts",
+            "name": "Hammer of Thunderbolts",
             "price": 16000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Hat of Disguise",
+            "name": "Hat of Disguise",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Headband of Intellect",
+            "name": "Headband of Intellect",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Helm of Comprehend Languages",
+            "name": "Helm of Comprehend Languages",
             "price": 500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Helm of Telepathy",
+            "name": "Helm of Telepathy",
             "price": 12000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Helm of Teleportation",
+            "name": "Helm of Teleportation",
             "price": 64000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Heward's Handy Haversack",
+            "name": "Heward's Handy Haversack",
             "price": 2000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Holy Avenger",
+            "name": "Holy Avenger",
             "price": 165000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Horn of Blasting",
+            "name": "Horn of Blasting",
             "price": 450,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Horseshoes of Speed",
+            "name": "Horseshoes of Speed",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Horseshoes of the Zephyr",
+            "name": "Horseshoes of the Zephyr",
             "price": 1500,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Immovable Rod",
+            "name": "Immovable Rod",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Instrument of the Bards - Anstruth Harp",
+            "name": "Instrument of the Bards - Anstruth Harp",
             "price": 109000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Instrument of the Bards - Canaith Mandolin",
+            "name": "Instrument of the Bards - Canaith Mandolin",
             "price": 30000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Instrument of the Bards - Cli Lyre",
+            "name": "Instrument of the Bards - Cli Lyre",
             "price": 35000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Instrument of the Bards - Doss Lute",
+            "name": "Instrument of the Bards - Doss Lute",
             "price": 28500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Instrument of the Bards - Fochulan Bandlore",
+            "name": "Instrument of the Bards - Fochulan Bandlore",
             "price": 26500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Instrument of the Bards - Mac-Fuirmidh Cittern",
+            "name": "Instrument of the Bards - Mac-Fuirmidh Cittern",
             "price": 27000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Instrument of the Bards - Ollamh Harp",
+            "name": "Instrument of the Bards - Ollamh Harp",
             "price": 125000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ioun Stone Absorption",
+            "name": "Ioun Stone Absorption",
             "price": 2400,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Agility",
+            "name": "Ioun Stone Agility",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Awareness",
+            "name": "Ioun Stone Awareness",
             "price": 12000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ioun Stone Fortitude",
+            "name": "Ioun Stone Fortitude",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Greater Absorption",
+            "name": "Ioun Stone Greater Absorption",
             "price": 31000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ioun Stone Insight",
+            "name": "Ioun Stone Insight",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Intellect",
+            "name": "Ioun Stone Intellect",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Leadership",
+            "name": "Ioun Stone Leadership",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Mastery",
+            "name": "Ioun Stone Mastery",
             "price": 15000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ioun Stone Protection",
+            "name": "Ioun Stone Protection",
             "price": 1200,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ioun Stone Regeneration",
+            "name": "Ioun Stone Regeneration",
             "price": 4000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ioun Stone Reserve",
+            "name": "Ioun Stone Reserve",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ioun Stone Strength",
+            "name": "Ioun Stone Strength",
             "price": 3000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ioun Stone Sustenance",
+            "name": "Ioun Stone Sustenance",
             "price": 1000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Iron Bands of Bilarro",
+            "name": "Iron Bands of Bilarro",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Iron Horn of Valhalla",
+            "name": "Iron Horn of Valhalla",
             "price": 14000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ivory Goat (Terror)",
+            "name": "Ivory Goat (Terror)",
             "price": 20000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ivory Goat (Travail)",
+            "name": "Ivory Goat (Travail)",
             "price": 400,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ivory Goat (Traveling)",
+            "name": "Ivory Goat (Traveling)",
             "price": 1000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Javelin of Lightning",
+            "name": "Javelin of Lightning",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Keoghtom's Ointment (Per dose)",
+            "name": "Keoghtom's Ointment (Per dose)",
             "price": 120,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Lantern of Revealing",
+            "name": "Lantern of Revealing",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Luckstone",
+            "name": "Luckstone",
             "price": 4200,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Mace of Disruption",
+            "name": "Mace of Disruption",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Mace of Smiting",
+            "name": "Mace of Smiting",
             "price": 7000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Mace of Terror",
+            "name": "Mace of Terror",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Mantle of Spell Resistance",
+            "name": "Mantle of Spell Resistance",
             "price": 30000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Marble Elephant",
+            "name": "Marble Elephant",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Mariner's Armor",
+            "name": "Mariner's Armor",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Medallion of Thoughts",
+            "name": "Medallion of Thoughts",
             "price": 3000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Mirror of Life Trapping",
+            "name": "Mirror of Life Trapping",
             "price": 18000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Mithral Armor",
+            "name": "Mithral Armor",
             "price": 800,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Necklace of Adaption",
+            "name": "Necklace of Adaption",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Necklace of Fireballs (Five beads)",
+            "name": "Necklace of Fireballs (Five beads)",
             "price": 3840,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Necklace of Fireballs (Four beads)",
+            "name": "Necklace of Fireballs (Four beads)",
             "price": 1600,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Necklace of Fireballs (One bead)",
+            "name": "Necklace of Fireballs (One bead)",
             "price": 300,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Necklace of Fireballs (Six beads)",
+            "name": "Necklace of Fireballs (Six beads)",
             "price": 7680,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Necklace of Fireballs (Three beads)",
+            "name": "Necklace of Fireballs (Three beads)",
             "price": 960,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Necklace of Fireballs (Two beads)",
+            "name": "Necklace of Fireballs (Two beads)",
             "price": 480,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Nine Lives Stealer (Fully Charged)",
+            "name": "Nine Lives Stealer (Fully Charged)",
             "price": 8000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Nolzur's Marvelous Pigments",
+            "name": "Nolzur's Marvelous Pigments",
             "price": 200,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Oathbow",
+            "name": "Oathbow",
             "price": 3500,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Obsidian Steed",
+            "name": "Obsidian Steed",
             "price": 128000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Oil of Etherealness",
+            "name": "Oil of Etherealness",
             "price": 1920,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Oil of Sharpness",
+            "name": "Oil of Sharpness",
             "price": 3200,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Oil of Slipperiness",
+            "name": "Oil of Slipperiness",
             "price": 480,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Onyx Dog",
+            "name": "Onyx Dog",
             "price": 3000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Pearl of Power",
+            "name": "Pearl of Power",
             "price": 6000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Periapt of Health",
+            "name": "Periapt of Health",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Periapt of Proof Against Poison",
+            "name": "Periapt of Proof Against Poison",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Periapt of Wound Closure",
+            "name": "Periapt of Wound Closure",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Philter of Love",
+            "name": "Philter of Love",
             "price": 90,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Pipes of Haunting",
+            "name": "Pipes of Haunting",
             "price": 6000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Pipes of the Sewers",
+            "name": "Pipes of the Sewers",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Plate Armor of Etherealness",
+            "name": "Plate Armor of Etherealness",
             "price": 48000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Portable Hole",
+            "name": "Portable Hole",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Animal Friendship",
+            "name": "Potion of Animal Friendship",
             "price": 200,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Clairvoyance",
+            "name": "Potion of Clairvoyance",
             "price": 960,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Climbing",
+            "name": "Potion of Climbing",
             "price": 180,
-            "type": "Common"
+            "rearity": "Common"
         },
         {
-            "item": "Potion of Diminution",
+            "name": "Potion of Diminution",
             "price": 270,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Fire Breath",
+            "name": "Potion of Fire Breath",
             "price": 150,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Flying",
+            "name": "Potion of Flying",
             "price": 500,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Gaseous Form",
+            "name": "Potion of Gaseous Form",
             "price": 300,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Greater Healing",
+            "name": "Potion of Greater Healing",
             "price": 150,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Growth",
+            "name": "Potion of Growth",
             "price": 270,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Healing",
+            "name": "Potion of Healing",
             "price": 50,
-            "type": "Common"
+            "rearity": "Common"
         },
         {
-            "item": "Potion of Heroism",
+            "name": "Potion of Heroism",
             "price": 180,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Invisibility",
+            "name": "Potion of Invisibility",
             "price": 180,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Invulnerability",
+            "name": "Potion of Invulnerability",
             "price": 3840,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Longevity",
+            "name": "Potion of Longevity",
             "price": 9000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Mind Reading",
+            "name": "Potion of Mind Reading",
             "price": 180,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Potion of Poison",
+            "name": "Potion of Poison",
             "price": 100,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Resistance",
+            "name": "Potion of Resistance",
             "price": 300,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Potion of Speed",
+            "name": "Potion of Speed",
             "price": 400,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Superior Healing",
+            "name": "Potion of Superior Healing",
             "price": 450,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Supreme Healing",
+            "name": "Potion of Supreme Healing",
             "price": 1350,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Vitality",
+            "name": "Potion of Vitality",
             "price": 960,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Potion of Water Breathing",
+            "name": "Potion of Water Breathing",
             "price": 180,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Prayer Bead - Bless",
+            "name": "Prayer Bead - Bless",
             "price": 2000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Prayer Bead - Curing",
+            "name": "Prayer Bead - Curing",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Prayer Bead - Favor",
+            "name": "Prayer Bead - Favor",
             "price": 32000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Prayer Bead - Smiting",
+            "name": "Prayer Bead - Smiting",
             "price": 1500,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Prayer Bead - Summons",
+            "name": "Prayer Bead - Summons",
             "price": 128000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Prayer Bead - Wind Walking",
+            "name": "Prayer Bead - Wind Walking",
             "price": 96000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quaal's Feather Token Anchor",
+            "name": "Quaal's Feather Token Anchor",
             "price": 50,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quaal's Feather Token Bird",
+            "name": "Quaal's Feather Token Bird",
             "price": 3000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quaal's Feather Token Fan",
+            "name": "Quaal's Feather Token Fan",
             "price": 250,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quaal's Feather Token Swan Boat",
+            "name": "Quaal's Feather Token Swan Boat",
             "price": 3000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quaal's Feather Token Whip",
+            "name": "Quaal's Feather Token Whip",
             "price": 250,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Quiver of Ehlonna",
+            "name": "Quiver of Ehlonna",
             "price": 1000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of Air Elemental Command",
+            "name": "Ring of Air Elemental Command",
             "price": 35000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Animal Influence",
+            "name": "Ring of Animal Influence",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Earth Elemental Command",
+            "name": "Ring of Earth Elemental Command",
             "price": 31000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Evasion",
+            "name": "Ring of Evasion",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Feather Falling",
+            "name": "Ring of Feather Falling",
             "price": 2000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Fire Elemental Command",
+            "name": "Ring of Fire Elemental Command",
             "price": 17000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Free Action",
+            "name": "Ring of Free Action",
             "price": 20000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Invisibility",
+            "name": "Ring of Invisibility",
             "price": 10000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Jumping",
+            "name": "Ring of Jumping",
             "price": 2500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of Mind Shielding",
+            "name": "Ring of Mind Shielding",
             "price": 16000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of Protection",
+            "name": "Ring of Protection",
             "price": 3500,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Regeneration",
+            "name": "Ring of Regeneration",
             "price": 12000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ring of Resistance",
+            "name": "Ring of Resistance",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Shooting Stars",
+            "name": "Ring of Shooting Stars",
             "price": 14000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ring of Spell Storing",
+            "name": "Ring of Spell Storing",
             "price": 24000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Spell Turning",
+            "name": "Ring of Spell Turning",
             "price": 30000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Swimming",
+            "name": "Ring of Swimming",
             "price": 3000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of Telekinesis",
+            "name": "Ring of Telekinesis",
             "price": 80000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Ring of the Ram",
+            "name": "Ring of the Ram",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Ring of Warmth",
+            "name": "Ring of Warmth",
             "price": 1000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of Water Elemental Command",
+            "name": "Ring of Water Elemental Command",
             "price": 25000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Ring of Water Walking",
+            "name": "Ring of Water Walking",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Ring of X-Ray Vision",
+            "name": "Ring of X-Ray Vision",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Robe of Eyes",
+            "name": "Robe of Eyes",
             "price": 30000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Robe of Scintillating Colors",
+            "name": "Robe of Scintillating Colors",
             "price": 6000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Robe of Stars",
+            "name": "Robe of Stars",
             "price": 60000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Robe of the Archmagi",
+            "name": "Robe of the Archmagi",
             "price": 34000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Robe of Useful Items",
-            "price": "Items * 5",
-            "type": "Uncommon"
+            "name": "Robe of Useful names",
+            "price": "names * 5",
+            "rearity": "Uncommon"
         },
         {
-            "item": "Rod of Absorption",
+            "name": "Rod of Absorption",
             "price": 50000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Rod of Alertness",
+            "name": "Rod of Alertness",
             "price": 25000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Rod of Lordly Might",
+            "name": "Rod of Lordly Might",
             "price": 28000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Rod of Rulership",
+            "name": "Rod of Rulership",
             "price": 16000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Rod of Security",
+            "name": "Rod of Security",
             "price": 90000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Rod of the Pact Keeper +1",
+            "name": "Rod of the Pact Keeper +1",
             "price": 12000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Rod of the Pact Keeper +2",
+            "name": "Rod of the Pact Keeper +2",
             "price": 16000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Rod of the Pact Keeper +3",
+            "name": "Rod of the Pact Keeper +3",
             "price": 28000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Rope of Climbing",
+            "name": "Rope of Climbing",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Rope of Entanglement",
+            "name": "Rope of Entanglement",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Saddle of the Cavalier",
+            "name": "Saddle of the Cavalier",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Scarab of Protection",
+            "name": "Scarab of Protection",
             "price": 36000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Scimitar of Speed",
+            "name": "Scimitar of Speed",
             "price": 6000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Scroll of Protection",
+            "name": "Scroll of Protection",
             "price": 180,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Sending Stones",
+            "name": "Sending Stones",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Sentinel Shield",
+            "name": "Sentinel Shield",
             "price": 20000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Serpentine Owl",
+            "name": "Serpentine Owl",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Shield of Missile Attraction",
+            "name": "Shield of Missile Attraction",
             "price": 6000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Silver Horn of Valhalla",
+            "name": "Silver Horn of Valhalla",
             "price": 5600,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Silver Raven",
+            "name": "Silver Raven",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Slippers of Spider Climbing",
+            "name": "Slippers of Spider Climbing",
             "price": 5000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Sovereign Glue",
+            "name": "Sovereign Glue",
             "price": 400,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Spell Scroll Level 0",
+            "name": "Spell Scroll Level 0",
             "price": 10,
-            "type": "Common"
+            "rearity": "Common"
         },
         {
-            "item": "Spell Scroll Level 1",
+            "name": "Spell Scroll Level 1",
             "price": 60,
-            "type": "Common"
+            "rearity": "Common"
         },
         {
-            "item": "Spell Scroll Level 2",
+            "name": "Spell Scroll Level 2",
             "price": 120,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Spell Scroll Level 3",
+            "name": "Spell Scroll Level 3",
             "price": 200,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Spell Scroll Level 4",
+            "name": "Spell Scroll Level 4",
             "price": 320,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Spell Scroll Level 5",
+            "name": "Spell Scroll Level 5",
             "price": 640,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Spell Scroll Level 6",
+            "name": "Spell Scroll Level 6",
             "price": 1280,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Spell Scroll Level 7",
+            "name": "Spell Scroll Level 7",
             "price": 2560,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Spell Scroll Level 8",
+            "name": "Spell Scroll Level 8",
             "price": 5120,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Spell Scroll Level 9",
+            "name": "Spell Scroll Level 9",
             "price": 10240,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Spellguard Shield",
+            "name": "Spellguard Shield",
             "price": 50000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Sphere of Annihilation",
+            "name": "Sphere of Annihilation",
             "price": 15000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Staff of Charming",
+            "name": "Staff of Charming",
             "price": 12000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Staff of Fire",
+            "name": "Staff of Fire",
             "price": 16000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Staff of Frost",
+            "name": "Staff of Frost",
             "price": 26000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Staff of Healing",
+            "name": "Staff of Healing",
             "price": 13000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Staff of Power",
+            "name": "Staff of Power",
             "price": 95500,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Staff of Striking",
+            "name": "Staff of Striking",
             "price": 21000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Staff of Swarming Insects",
+            "name": "Staff of Swarming Insects",
             "price": 16000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Staff of the Adder",
+            "name": "Staff of the Adder",
             "price": 1800,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Staff of the Python",
+            "name": "Staff of the Python",
             "price": 2000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Staff of the Woodlands",
+            "name": "Staff of the Woodlands",
             "price": 44000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Staff of Thunder and Lightning",
+            "name": "Staff of Thunder and Lightning",
             "price": 10000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Staff of Withering",
+            "name": "Staff of Withering",
             "price": 3000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Stone of Controlling Earth Elementals",
+            "name": "Stone of Controlling Earth Elementals",
             "price": 8000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Sunblade",
+            "name": "Sunblade",
             "price": 12000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Sword of Answering",
+            "name": "Sword of Answering",
             "price": 36000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Sword of Life-Stealing",
+            "name": "Sword of Life-Stealing",
             "price": 1000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Sword of Sharpness",
+            "name": "Sword of Sharpness",
             "price": 1700,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Sword of Wounding",
+            "name": "Sword of Wounding",
             "price": 2000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Talisman of Pure Good",
+            "name": "Talisman of Pure Good",
             "price": 71680,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Talisman of the Sphere",
+            "name": "Talisman of the Sphere",
             "price": 20000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Talisman of Ultimate Evil",
+            "name": "Talisman of Ultimate Evil",
             "price": 61440,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Tentacle Rod",
+            "name": "Tentacle Rod",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Trident of Fish Command",
+            "name": "Trident of Fish Command",
             "price": 800,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Universal Solvent",
+            "name": "Universal Solvent",
             "price": 300,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Vicious Weapon",
+            "name": "Vicious Weapon",
             "price": 350,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Vorpal Sword",
+            "name": "Vorpal Sword",
             "price": 24000,
-            "type": "Legendary"
+            "rearity": "Legendary"
         },
         {
-            "item": "Wand of Binding",
+            "name": "Wand of Binding",
             "price": 10000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Enemy Detection",
+            "name": "Wand of Enemy Detection",
             "price": 4000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Fear",
+            "name": "Wand of Fear",
             "price": 10000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Fireballs",
+            "name": "Wand of Fireballs",
             "price": 32000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Lightning Bolts",
+            "name": "Wand of Lightning Bolts",
             "price": 32000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Magic Detection",
+            "name": "Wand of Magic Detection",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wand of Magic Missiles",
+            "name": "Wand of Magic Missiles",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wand of Paralysis",
+            "name": "Wand of Paralysis",
             "price": 16000,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of Polymorph",
+            "name": "Wand of Polymorph",
             "price": 32000,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Wand of Secrets",
+            "name": "Wand of Secrets",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wand of the War Mage +1",
+            "name": "Wand of the War Mage +1",
             "price": 1200,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wand of the War Mage +2",
+            "name": "Wand of the War Mage +2",
             "price": 4800,
-            "type": "Rare"
+            "rearity": "Rare"
         },
         {
-            "item": "Wand of the War Mage +3",
+            "name": "Wand of the War Mage +3",
             "price": 19200,
-            "type": "Very Rare"
+            "rearity": "Very Rare"
         },
         {
-            "item": "Wand of Web",
+            "name": "Wand of Web",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Weapon of Warning",
+            "name": "Weapon of Warning",
             "price": 60000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wind Fan",
+            "name": "Wind Fan",
             "price": 1500,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Winged Boots",
+            "name": "Winged Boots",
             "price": 8000,
-            "type": "Uncommon"
+            "rearity": "Uncommon"
         },
         {
-            "item": "Wings of Flying",
+            "name": "Wings of Flying",
             "price": 5000,
-            "type": "Rare"
+            "rearity": "Rare"
         }
     ]
 }
