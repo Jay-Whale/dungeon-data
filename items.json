@@ -1,0 +1,2686 @@
+{
+    "items": [
+        {
+            "name": "Abacus",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 2,
+            "cost": 2
+        },
+        {
+            "name": "Acid (vial)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage, Utility",
+            "weight": 1,
+            "cost": 25
+        },
+        {
+            "name": "Airship",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Movement, Utility",
+            "weight": 20000,
+            "cost": null
+        },
+        {
+            "name": "Alchemist's Fire (flask)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Consumable, Damage, Utility",
+            "weight": 1,
+            "cost": 50
+        },
+        {
+            "name": "Alchemist's Supplies",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 8,
+            "cost": 50
+        },
+        {
+            "name": "Alexandrite",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Alms Box",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Amber",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Amethyst",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Amulet",
+            "category": "Holy Symbol",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 5
+        },
+        {
+            "name": "Antimatter Rifle",
+            "category": "Firearms Ranged Weapon",
+            "type": "Necrotic",
+            "weight": 10,
+            "cost": null
+        },
+        {
+            "name": "Antitoxin",
+            "category": "Adventuring Gear",
+            "type": "Healing, Utility",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Aquamarine",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Arcane Focus",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Arrows",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": 1
+        },
+        {
+            "name": "Assassin's Blood (Ingested)",
+            "category": "Poison",
+            "type": "Consumable, Damage",
+            "weight": null,
+            "cost": 150
+        },
+        {
+            "name": "Axe Beak",
+            "category": "Mount",
+            "type": "Speed 50 ft., Carrying Capacity 420 lbs.",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Azurite",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Backpack",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 5,
+            "cost": 2
+        },
+        {
+            "name": "Bad News (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 25,
+            "cost": null
+        },
+        {
+            "name": "Bad News Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Ball Bearings (bag of 1,000)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Control, Utility",
+            "weight": 2,
+            "cost": 1
+        },
+        {
+            "name": "Banded Agate",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Barding",
+            "category": "Adventuring Gear",
+            "type": "Cost x4, Weight x2",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Barrel",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 70,
+            "cost": 2
+        },
+        {
+            "name": "Basket",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Battleaxe",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 4,
+            "cost": 10
+        },
+        {
+            "name": "Bedroll",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 7,
+            "cost": 1
+        },
+        {
+            "name": "Bell",
+            "category": "Adventuring Gear",
+            "type": "Communication, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Birdpipes",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 12
+        },
+        {
+            "name": "Bit and Bridle",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Black Opal",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Black Pearl",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Black Sap",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 300
+        },
+        {
+            "name": "Black Sapphire",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 5000
+        },
+        {
+            "name": "Blanket",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 3,
+            "cost": null
+        },
+        {
+            "name": "Blasting Powder",
+            "category": "Adventuring Gear",
+            "type": "from Explorer's Guide to Wildemount - Chapter 5",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Blight Ichor",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 200
+        },
+        {
+            "name": "Block and Tackle",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Movement, Utility",
+            "weight": 5,
+            "cost": 1
+        },
+        {
+            "name": "Block of Incense",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Blood of the Lycanthrope (Injury)",
+            "category": "Poison",
+            "type": "Consumable",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Bloodstone",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Blowgun",
+            "category": "Martial Ranged Weapon",
+            "type": "Piercing",
+            "weight": 1,
+            "cost": 10
+        },
+        {
+            "name": "Blowgun Needles",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": 1
+        },
+        {
+            "name": "Blue Quartz",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Blue Sapphire",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Blue Spinel",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Blunderbuss (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 10,
+            "cost": 300
+        },
+        {
+            "name": "Blunderbuss Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": 5
+        },
+        {
+            "name": "Bomb",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": 150
+        },
+        {
+            "name": "Book",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": 5,
+            "cost": 25
+        },
+        {
+            "name": "Boomerang",
+            "category": "Simple Ranged Weapon",
+            "type": "Bludgeoning",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Boots",
+            "category": "Adventuring Gear",
+            "type": null,
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Bottle, Glass",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 2,
+            "cost": 2
+        },
+        {
+            "name": "Breastplate",
+            "category": "Medium Armor",
+            "type": "AC 14",
+            "weight": 20,
+            "cost": 400
+        },
+        {
+            "name": "Brewer's Supplies",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 9,
+            "cost": 20
+        },
+        {
+            "name": "Bucket",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Bullets, Modern",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Bullets, Renaissance",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 2,
+            "cost": 3
+        },
+        {
+            "name": "Burglar's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Exploration, Utility",
+            "weight": 47.5,
+            "cost": 16
+        },
+        {
+            "name": "Burnt Othur Fumes (Inhaled)",
+            "category": "Poison",
+            "type": "Consumable, Damage",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Calligrapher's Supplies",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 10
+        },
+        {
+            "name": "Caltrops (bag of 20)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage, Movement",
+            "weight": 2,
+            "cost": 1
+        },
+        {
+            "name": "Camel",
+            "category": "Mount",
+            "type": "Speed 50 ft., Carrying Capacity 480 lbs.",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Candle",
+            "category": "Adventuring Gear",
+            "type": "Consumable, Exploration, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Canoe",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Carnelian",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Carpenter's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 6,
+            "cost": 8
+        },
+        {
+            "name": "Carriage",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 600,
+            "cost": 100
+        },
+        {
+            "name": "Cart",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 200,
+            "cost": 15
+        },
+        {
+            "name": "Cartographer's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 6,
+            "cost": 15
+        },
+        {
+            "name": "Case, Crossbow Bolt",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": 1
+        },
+        {
+            "name": "Case, Map or Scroll",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": 1
+        },
+        {
+            "name": "Censer",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Chain (10 feet)",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 10,
+            "cost": 5
+        },
+        {
+            "name": "Chain Mail",
+            "category": "Heavy Armor",
+            "type": "AC 16",
+            "weight": 55,
+            "cost": 75
+        },
+        {
+            "name": "Chain Shirt",
+            "category": "Medium Armor",
+            "type": "AC 13",
+            "weight": 20,
+            "cost": 50
+        },
+        {
+            "name": "Chalcedony",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Chalk (1 piece)",
+            "category": "Adventuring Gear",
+            "type": "Communication, Consumable, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Chariot",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 100,
+            "cost": 250
+        },
+        {
+            "name": "Chest",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 25,
+            "cost": 5
+        },
+        {
+            "name": "Chrysoberyl",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Chrysoprase",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Citrine",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Climber's Kit",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Movement, Utility",
+            "weight": 12,
+            "cost": 25
+        },
+        {
+            "name": "Clothes, Common",
+            "category": "Adventuring Gear",
+            "type": "Outerwear, Social",
+            "weight": 3,
+            "cost": null
+        },
+        {
+            "name": "Clothes, Costume",
+            "category": "Adventuring Gear",
+            "type": "Deception, Outerwear, Social",
+            "weight": 4,
+            "cost": 5
+        },
+        {
+            "name": "Clothes, Fine",
+            "category": "Adventuring Gear",
+            "type": "Outerwear, Social",
+            "weight": 6,
+            "cost": 15
+        },
+        {
+            "name": "Clothes, Traveler's",
+            "category": "Adventuring Gear",
+            "type": "Outerwear, Social",
+            "weight": 4,
+            "cost": 2
+        },
+        {
+            "name": "Clothing, cold weather",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Outerwear, Utility",
+            "weight": 5,
+            "cost": 10
+        },
+        {
+            "name": "Club",
+            "category": "Simple Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Cobbler's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 5
+        },
+        {
+            "name": "Component Pouch",
+            "category": "Adventuring Gear",
+            "type": "Container, Utility",
+            "weight": 2,
+            "cost": 25
+        },
+        {
+            "name": "Cook's Utensils",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 8,
+            "cost": 1
+        },
+        {
+            "name": "Coral",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Crampons",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 1.04,
+            "cost": 2
+        },
+        {
+            "name": "Crawler Mucus (Contact)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 200
+        },
+        {
+            "name": "Crossbow Bolts",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 1.5,
+            "cost": 1
+        },
+        {
+            "name": "Crossbow, Hand",
+            "category": "Martial Ranged Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": 75
+        },
+        {
+            "name": "Crossbow, Heavy",
+            "category": "Martial Ranged Weapon",
+            "type": "Piercing",
+            "weight": 18,
+            "cost": 50
+        },
+        {
+            "name": "Crossbow, Light",
+            "category": "Simple Ranged Weapon",
+            "type": "Piercing",
+            "weight": 5,
+            "cost": 25
+        },
+        {
+            "name": "Crowbar",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 5,
+            "cost": 2
+        },
+        {
+            "name": "Crystal",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 10
+        },
+        {
+            "name": "Dagger",
+            "category": "Simple Melee Weapon",
+            "type": "Piercing",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Dart",
+            "category": "Simple Ranged Weapon",
+            "type": "Piercing",
+            "weight": 1.04,
+            "cost": null
+        },
+        {
+            "name": "Diamond",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 5000
+        },
+        {
+            "name": "Dice Set",
+            "category": "Tool",
+            "type": "Social",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Diplomat's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Exploration, Outerwear, Social, Utility",
+            "weight": 36,
+            "cost": 39
+        },
+        {
+            "name": "Disguise Kit",
+            "category": "Tool",
+            "type": "Deception, Utility",
+            "weight": 3,
+            "cost": 25
+        },
+        {
+            "name": "Dogsled",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 300,
+            "cost": 20
+        },
+        {
+            "name": "Donkey (or Mule)",
+            "category": "Mount",
+            "type": "Speed 40 ft., Carrying Capacity 420 lbs.",
+            "weight": null,
+            "cost": 8
+        },
+        {
+            "name": "Double-Bladed Scimitar",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 6,
+            "cost": 100
+        },
+        {
+            "name": "Draft Horse",
+            "category": "Mount",
+            "type": "Speed 40 ft., Carrying Capacity 540 lbs.",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Dragonchess Set",
+            "category": "Tool",
+            "type": "Social",
+            "weight": 1.02,
+            "cost": null
+        },
+        {
+            "name": "Dragon's Blood",
+            "category": "Poison",
+            "type": null,
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Dreamlily",
+            "category": "Poison",
+            "type": null,
+            "weight": null,
+            "cost": 1
+        },
+        {
+            "name": "Drow Poison (Injury)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 200
+        },
+        {
+            "name": "Druidic Focus",
+            "category": "Druidic Focus",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Drum",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 3,
+            "cost": 6
+        },
+        {
+            "name": "Dulcimer",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 10,
+            "cost": 25
+        },
+        {
+            "name": "Dungeoneer's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Exploration, Utility",
+            "weight": 61.5,
+            "cost": 12
+        },
+        {
+            "name": "Dust of the Mummy (Inhaled)",
+            "category": "Poison",
+            "type": "Consumable",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Dynamite (Stick)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Eberron Dragonshard",
+            "category": "Adventuring Gear",
+            "type": "Component",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Elephant",
+            "category": "Mount",
+            "type": "Speed 40 ft., Carrying Capacity 1,320 lbs.",
+            "weight": null,
+            "cost": 200
+        },
+        {
+            "name": "Emblem",
+            "category": "Holy Symbol",
+            "type": "Utility",
+            "weight": 5,
+            "cost": null
+        },
+        {
+            "name": "Emerald",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Energy Cell",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Entertainer's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Deception, Exploration, Outerwear, Social, Utility",
+            "weight": 38,
+            "cost": 40
+        },
+        {
+            "name": "Essence of Ether (Inhaled)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 300
+        },
+        {
+            "name": "Explorer's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Exploration, Utility",
+            "weight": 59,
+            "cost": 10
+        },
+        {
+            "name": "Explosive Seed",
+            "category": "Adventuring Gear",
+            "type": "from Explorer's Guide to Wildemount - Chapter 5",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Eye Agate",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Feed (per day)",
+            "category": "Adventuring Gear",
+            "type": "Consumable, Utility",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Fire Opal",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Fishing Tackle",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": 4,
+            "cost": 1
+        },
+        {
+            "name": "Flail",
+            "category": "Martial Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 2,
+            "cost": 10
+        },
+        {
+            "name": "Flask or Tankard",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Flute",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Forgery Kit",
+            "category": "Tool",
+            "type": "Deception, Utility",
+            "weight": 5,
+            "cost": 15
+        },
+        {
+            "name": "Galley",
+            "category": "Vehicle (Water)",
+            "type": "Speed 4 mph",
+            "weight": null,
+            "cost": 30000
+        },
+        {
+            "name": "Garnet",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Glaive",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 6,
+            "cost": 20
+        },
+        {
+            "name": "Glassblower's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 30
+        },
+        {
+            "name": "Glaur",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 3
+        },
+        {
+            "name": "Grappling Hook",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 4,
+            "cost": 2
+        },
+        {
+            "name": "Greataxe",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 7,
+            "cost": 30
+        },
+        {
+            "name": "Greatclub",
+            "category": "Simple Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 10,
+            "cost": null
+        },
+        {
+            "name": "Greatsword",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 6,
+            "cost": 50
+        },
+        {
+            "name": "Grenade Launcher",
+            "category": "Adventuring Gear",
+            "type": "Combat, Control, Damage",
+            "weight": 7,
+            "cost": null
+        },
+        {
+            "name": "Grenade, Fragmentation",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Grenade, Smoke",
+            "category": "Adventuring Gear",
+            "type": "Combat, Control",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Gunpowder, Keg",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage",
+            "weight": 20,
+            "cost": 250
+        },
+        {
+            "name": "Gunpowder, Powder Horn",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage",
+            "weight": 2,
+            "cost": 35
+        },
+        {
+            "name": "Halberd",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 6,
+            "cost": 20
+        },
+        {
+            "name": "Half Plate",
+            "category": "Medium Armor",
+            "type": "AC 15",
+            "weight": 40,
+            "cost": 750
+        },
+        {
+            "name": "Hammer",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 3,
+            "cost": 1
+        },
+        {
+            "name": "Hammer, Sledge",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 10,
+            "cost": 2
+        },
+        {
+            "name": "Hand Drum",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 3,
+            "cost": 6
+        },
+        {
+            "name": "Hand Mortar (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Fire",
+            "weight": 10,
+            "cost": null
+        },
+        {
+            "name": "Hand Mortar Ammunition",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Handaxe",
+            "category": "Simple Melee Weapon",
+            "type": "Slashing",
+            "weight": 2,
+            "cost": 5
+        },
+        {
+            "name": "Healer's Kit",
+            "category": "Adventuring Gear",
+            "type": "Combat, Healing",
+            "weight": 3,
+            "cost": 5
+        },
+        {
+            "name": "Helm",
+            "category": "Adventuring Gear",
+            "type": null,
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Hematite",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Herbalism Kit",
+            "category": "Tool",
+            "type": "Healing, Utility",
+            "weight": 3,
+            "cost": 5
+        },
+        {
+            "name": "Hide",
+            "category": "Medium Armor",
+            "type": "AC 12",
+            "weight": 12,
+            "cost": 10
+        },
+        {
+            "name": "Holy Symbol",
+            "category": "Holy Symbol",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Holy Water (flask)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage, Utility",
+            "weight": 1,
+            "cost": 25
+        },
+        {
+            "name": "Horn",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 3
+        },
+        {
+            "name": "Hourglass",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 25
+        },
+        {
+            "name": "Hunting Trap",
+            "category": "Adventuring Gear",
+            "type": "Damage, Utility",
+            "weight": 25,
+            "cost": 5
+        },
+        {
+            "name": "Ink (1 ounce bottle)",
+            "category": "Adventuring Gear",
+            "type": "Communication, Consumable, Social, Utility",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Ink Pen",
+            "category": "Adventuring Gear",
+            "type": "Communication, Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Insect Repellent-Incense",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Insect Repellent-Salve",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Jacinth",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 5000
+        },
+        {
+            "name": "Jade",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Jasper",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Javelin",
+            "category": "Simple Melee Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 1
+        },
+        {
+            "name": "Jet",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Jeweler's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 2,
+            "cost": 25
+        },
+        {
+            "name": "Jug or Pitcher",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 4,
+            "cost": null
+        },
+        {
+            "name": "Keelboat",
+            "category": "Vehicle (Water)",
+            "type": "Speed 1 mph",
+            "weight": null,
+            "cost": 3000
+        },
+        {
+            "name": "Khyber Dragonshard",
+            "category": "Adventuring Gear",
+            "type": "Component",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Ladder (10 foot)",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 25,
+            "cost": null
+        },
+        {
+            "name": "Lamp",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Lance",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 6,
+            "cost": 10
+        },
+        {
+            "name": "Lantern, Bullseye",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 2,
+            "cost": 10
+        },
+        {
+            "name": "Lantern, Hooded",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 2,
+            "cost": 5
+        },
+        {
+            "name": "Lapis Lazuli",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Laser Pistol",
+            "category": "Firearms Ranged Weapon",
+            "type": "Radiant",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Laser Rifle",
+            "category": "Firearms Ranged Weapon",
+            "type": "Radiant",
+            "weight": 7,
+            "cost": null
+        },
+        {
+            "name": "Leather",
+            "category": "Light Armor",
+            "type": "AC 11",
+            "weight": 10,
+            "cost": 10
+        },
+        {
+            "name": "Leatherworker's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 5
+        },
+        {
+            "name": "Light Hammer",
+            "category": "Simple Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 2,
+            "cost": 2
+        },
+        {
+            "name": "Little Bag of Sand",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Lock",
+            "category": "Adventuring Gear",
+            "type": "Utility, Warding",
+            "weight": 1,
+            "cost": 10
+        },
+        {
+            "name": "Longbow",
+            "category": "Martial Ranged Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 50
+        },
+        {
+            "name": "Longhorn",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Longship",
+            "category": "Vehicle (Water)",
+            "type": "Speed 3 mph",
+            "weight": null,
+            "cost": 10000
+        },
+        {
+            "name": "Longsword",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 3,
+            "cost": 15
+        },
+        {
+            "name": "Lute",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 35
+        },
+        {
+            "name": "Lyre",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 30
+        },
+        {
+            "name": "Mace",
+            "category": "Simple Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 4,
+            "cost": 5
+        },
+        {
+            "name": "Magnifying Glass",
+            "category": "Adventuring Gear",
+            "type": "Detection, Exploration, Utility",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Malachite",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Malice (Inhaled)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 250
+        },
+        {
+            "name": "Manacles",
+            "category": "Adventuring Gear",
+            "type": "Control, Utility",
+            "weight": 6,
+            "cost": 2
+        },
+        {
+            "name": "Mason's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 8,
+            "cost": 10
+        },
+        {
+            "name": "Mastiff",
+            "category": "Mount",
+            "type": "Speed 40 ft., Carrying Capacity 195 lbs.",
+            "weight": null,
+            "cost": 25
+        },
+        {
+            "name": "Maul",
+            "category": "Martial Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 10,
+            "cost": 10
+        },
+        {
+            "name": "Mess Kit",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Midnight Tears (Ingested)",
+            "category": "Poison",
+            "type": "Consumable, Damage",
+            "weight": null,
+            "cost": 1500
+        },
+        {
+            "name": "Mirror, Steel",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": null,
+            "cost": 5
+        },
+        {
+            "name": "Monster Hunter's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Control, Utility",
+            "weight": 49,
+            "cost": 33
+        },
+        {
+            "name": "Moonstone",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Moorbounder",
+            "category": "Mount",
+            "type": "from Explorer's Guide to Wildemount - Chapter 3",
+            "weight": null,
+            "cost": 400
+        },
+        {
+            "name": "Morningstar",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 4,
+            "cost": 15
+        },
+        {
+            "name": "Moss Agate",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Muroosa Balm",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Musket",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 10,
+            "cost": 500
+        },
+        {
+            "name": "Musket (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 10,
+            "cost": 300
+        },
+        {
+            "name": "Musket (Exandria) Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Navigator's Tools",
+            "category": "Tool",
+            "type": "Exploration, Utility",
+            "weight": 2,
+            "cost": 25
+        },
+        {
+            "name": "Net",
+            "category": "Martial Ranged Weapon",
+            "type": "Bludgeoning",
+            "weight": 3,
+            "cost": 1
+        },
+        {
+            "name": "Obsidian",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Oil (flask)",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Oil of Taggit (Contact)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 400
+        },
+        {
+            "name": "Olisuba Leaf",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Onyx",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Opal",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Orb",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": 3,
+            "cost": 20
+        },
+        {
+            "name": "Padded",
+            "category": "Light Armor",
+            "type": "AC 11",
+            "weight": 8,
+            "cost": 5
+        },
+        {
+            "name": "Painter's Supplies",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 10
+        },
+        {
+            "name": "Pale Tincture (Ingested)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 250
+        },
+        {
+            "name": "Palm Pistol (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 1,
+            "cost": 50
+        },
+        {
+            "name": "Palm Pistol Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Pan Flute",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 12
+        },
+        {
+            "name": "Paper (one sheet)",
+            "category": "Adventuring Gear",
+            "type": "Communication, Consumable, Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Parchment (one sheet)",
+            "category": "Adventuring Gear",
+            "type": "Communication, Consumable, Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Pearl",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Pepperbox (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 5,
+            "cost": 250
+        },
+        {
+            "name": "Pepperbox Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Perfume (vial)",
+            "category": "Adventuring Gear",
+            "type": "Consumable, Social, Utility",
+            "weight": null,
+            "cost": 5
+        },
+        {
+            "name": "Peridot",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Pick, Miner's",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 10,
+            "cost": 2
+        },
+        {
+            "name": "Pike",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 18,
+            "cost": 5
+        },
+        {
+            "name": "Pistol",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": 250
+        },
+        {
+            "name": "Pistol (Exandria)",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": 150
+        },
+        {
+            "name": "Pistol (Exandria) Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Pistol, Automatic",
+                   
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": null
+        },
+        {
+            "name": "Piton",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": 1
+        },
+        {
+            "name": "Plate",
+            "category": "Heavy Armor",
+            "type": "AC 18",
+            "weight": 65,
+            "cost": 1500
+        },
+        {
+            "name": "Playing Card Set",
+            "category": "Tool",
+            "type": "Social",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Poison, Basic (vial)",
+            "category": "Poison",
+            "type": "Combat, Consumable, Damage, Utility",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Poisoner's Kit",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 2,
+            "cost": 50
+        },
+        {
+            "name": "Pole (10-foot)",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 7,
+            "cost": null
+        },
+        {
+            "name": "Pony",
+            "category": "Mount",
+            "type": "Speed 40 ft., Carrying Capacity 225 lbs.",
+            "weight": null,
+            "cost": 30
+        },
+        {
+            "name": "Pot, Iron",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 10,
+            "cost": 2
+        },
+        {
+            "name": "Potion of Healing",
+            "category": "Potion",
+            "type": "Combat, Consumable, Healing",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Potter's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 3,
+            "cost": 10
+        },
+        {
+            "name": "Pouch",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Pride Silk",
+            "category": "Adventuring Gear",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Pride Silk Outfit",
+            "category": "Light Armor",
+            "type": "AC 11",
+            "weight": 4,
+            "cost": 500
+        },
+        {
+            "name": "Priest's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Exploration, Outerwear, Social, Utility",
+            "weight": 24,
+            "cost": 19
+        },
+        {
+            "name": "Purple Worm Poison (Injury)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 2000
+        },
+        {
+            "name": "Quarterstaff",
+            "category": "Simple Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 4,
+            "cost": null
+        },
+        {
+            "name": "Quartz",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Quiver",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": 1
+        },
+        {
+            "name": "Rain Catcher",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 1
+        },
+        {
+            "name": "Ram, Portable",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 35,
+            "cost": 4
+        },
+        {
+            "name": "Rapier",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 25
+        },
+        {
+            "name": "Rations (1 day)",
+            "category": "Adventuring Gear",
+            "type": "Consumable, Social, Utility",
+            "weight": 2,
+            "cost": null
+        },
+        {
+            "name": "Reliquary",
+            "category": "Holy Symbol",
+            "type": "Utility",
+            "weight": 2,
+            "cost": 5
+        },
+        {
+            "name": "Revolver",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": null
+        },
+        {
+            "name": "Rhodochrosite",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Riding Horse",
+            "category": "Mount",
+            "type": "Speed 60 ft., Carrying Capacity 480 lbs.",
+            "weight": null,
+            "cost": 75
+        },
+        {
+            "name": "Rifle, Automatic",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 8,
+            "cost": null
+        },
+        {
+            "name": "Rifle, Hunting",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 8,
+            "cost": null
+        },
+        {
+            "name": "Ring Mail",
+            "category": "Heavy Armor",
+            "type": "AC 14",
+            "weight": 40,
+            "cost": 30
+        },
+        {
+            "name": "Robes",
+            "category": "Adventuring Gear",
+            "type": "Outerwear, Utility",
+            "weight": 4,
+            "cost": 1
+        },
+        {
+            "name": "Rod",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": 2,
+            "cost": 10
+        },
+        {
+            "name": "Rope, Hempen (50 feet)",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 10,
+            "cost": 1
+        },
+        {
+            "name": "Rope, Silk (50 feet)",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 5,
+            "cost": 10
+        },
+        {
+            "name": "Rowboat",
+            "category": "Vehicle (Water)",
+            "type": "Speed 1 1/2 mph",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Ruby",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 5000
+        },
+        {
+            "name": "Sack",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Saddle, Exotic",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 40,
+            "cost": 60
+        },
+        {
+            "name": "Saddle, Military",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 30,
+            "cost": 20
+        },
+        {
+            "name": "Saddle, Pack",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 15,
+            "cost": 5
+        },
+        {
+            "name": "Saddle, Riding",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 25,
+            "cost": 10
+        },
+        {
+            "name": "Saddlebags",
+            "category": "Adventuring Gear",
+            "type": "Container, Utility",
+            "weight": 8,
+            "cost": 4
+        },
+        {
+            "name": "Sailing Ship",
+            "category": "Vehicle (Water)",
+            "type": "Speed 2 mph",
+            "weight": null,
+            "cost": 10000
+        },
+        {
+            "name": "Sardonyx",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Scale Mail",
+            "category": "Medium Armor",
+            "type": "AC 14",
+            "weight": 45,
+            "cost": 50
+        },
+        {
+            "name": "Scale, Merchant's",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": 3,
+            "cost": 5
+        },
+        {
+            "name": "Scholar's Pack",
+            "category": "Equipment Pack",
+            "type": "Container, Social, Utility",
+            "weight": 10,
+            "cost": 40
+        },
+        {
+            "name": "Scimitar",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 3,
+            "cost": 25
+        },
+        {
+            "name": "Sealing Wax",
+            "category": "Adventuring Gear",
+            "type": "Communication, Consumable, Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Serpent Venom (Injury)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 200
+        },
+        {
+            "name": "Shawm",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Shield",
+            "category": "Shield",
+            "type": "AC 2",
+            "weight": 6,
+            "cost": 10
+        },
+        {
+            "name": "Shortbow",
+            "category": "Simple Ranged Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 25
+        },
+        {
+            "name": "Shortsword",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 10
+        },
+        {
+            "name": "Shotgun",
+            "category": "Firearms Ranged Weapon",
+            "type": "Piercing",
+            "weight": 7,
+            "cost": null
+        },
+        {
+            "name": "Shovel",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 2
+        },
+        {
+            "name": "Siberys Dragonshard",
+            "category": "Adventuring Gear",
+            "type": "Component",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Sickle",
+            "category": "Simple Melee Weapon",
+            "type": "Slashing",
+            "weight": 2,
+            "cost": 1
+        },
+        {
+            "name": "Signal Whistle",
+            "category": "Adventuring Gear",
+            "type": "Communication, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Signet Ring",
+            "category": "Adventuring Gear",
+            "type": "Communication, Social, Utility",
+            "weight": null,
+            "cost": 5
+        },
+        {
+            "name": "Skyship",
+            "category": "Vehicle (Land)",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 100000
+        },
+        {
+            "name": "Sled",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 300,
+            "cost": 20
+        },
+        {
+            "name": "Sled Dog",
+            "category": "Mount",
+            "type": "Speed 40 ft., Pulling Capacity 360 lbs.",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Sling",
+            "category": "Simple Ranged Weapon",
+            "type": "Bludgeoning",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Sling Bullets",
+            "category": "Ammunition",
+            "type": "Combat, Damage",
+            "weight": 1.5,
+            "cost": null
+        },
+        {
+            "name": "Small Knife",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Smith's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 8,
+            "cost": 20
+        },
+        {
+            "name": "Snowshoes",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 4,
+            "cost": 2
+        },
+        {
+            "name": "Soap",
+            "category": "Adventuring Gear",
+            "type": "Consumable, Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Songhorn",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Soothsalts",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 150
+        },
+        {
+            "name": "Spear",
+            "category": "Simple Melee Weapon",
+            "type": "Piercing",
+            "weight": 3,
+            "cost": 1
+        },
+        {
+            "name": "Spellbook",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 3,
+            "cost": 50
+        },
+        {
+            "name": "Spiked Armor",
+            "category": "Medium Armor",
+            "type": "AC 14",
+            "weight": 45,
+            "cost": 75
+        },
+        {
+            "name": "Spikes, Iron (10)",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 1
+        },
+        {
+            "name": "Spinel",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Splint",
+            "category": "Heavy Armor",
+            "type": "AC 17",
+            "weight": 60,
+            "cost": 200
+        },
+        {
+            "name": "Sprig of Mistletoe",
+            "category": "Druidic Focus",
+            "type": "Utility",
+            "weight": null,
+            "cost": 1
+        },
+        {
+            "name": "Spyglass",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Social, Utility",
+            "weight": 1,
+            "cost": 1000
+        },
+        {
+            "name": "Staff",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": 4,
+            "cost": 5
+        },
+        {
+            "name": "Stake (Wooden)",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Star Rose Quartz",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 50
+        },
+        {
+            "name": "Star Ruby",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Star Sapphire",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "String",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Studded Leather",
+            "category": "Light Armor",
+            "type": "AC 12",
+            "weight": 13,
+            "cost": 45
+        },
+        {
+            "name": "Tangler Grenade",
+            "category": "Adventuring Gear",
+            "type": "Combat, Consumable, Control, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Tantan",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 3,
+            "cost": 6
+        },
+        {
+            "name": "Tej",
+            "category": "Adventuring Gear",
+            "type": null,
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Tent, Two-Person",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Social, Utility",
+            "weight": 20,
+            "cost": 2
+        },
+        {
+            "name": "Theki Root",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 3
+        },
+        {
+            "name": "Thelarr",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 2
+        },
+        {
+            "name": "Thessaltoxin (Ingested or Injury)",
+            "category": "Poison",
+            "type": "Consumable",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Thieves' Tools",
+            "category": "Tool",
+            "type": "Exploration, Utility",
+            "weight": 1,
+            "cost": 25
+        },
+        {
+            "name": "Three-Dragon Ante Set",
+            "category": "Tool",
+            "type": "Social",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Tiger Eye",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Tinderbox",
+            "category": "Adventuring Gear",
+            "type": "Exploration, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Tinker's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 10,
+            "cost": 50
+        },
+        {
+            "name": "Tocken",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 3,
+            "cost": 6
+        },
+        {
+            "name": "Topaz",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 500
+        },
+        {
+            "name": "Torch",
+            "category": "Adventuring Gear",
+            "type": "Combat, Damage, Exploration, Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Torpor (Ingested)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 600
+        },
+        {
+            "name": "Totem",
+            "category": "Druidic Focus",
+            "type": "Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Tourmaline",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 100
+        },
+        {
+            "name": "Trident",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 4,
+            "cost": 5
+        },
+        {
+            "name": "Truth Serum (Ingested)",
+            "category": "Poison",
+            "type": "Consumable, Debuff, Utility",
+            "weight": null,
+            "cost": 150
+        },
+        {
+            "name": "Turquoise",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Vestments",
+            "category": "Adventuring Gear",
+            "type": "Social, Utility",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Vial",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Viol",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 1,
+            "cost": 30
+        },
+        {
+            "name": "Wagon",
+            "category": "Vehicle (Land)",
+            "type": "Exploration, Movement, Utility",
+            "weight": 400,
+            "cost": 35
+        },
+        {
+            "name": "Wand",
+            "category": "Arcane Focus",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 10
+        },
+        {
+            "name": "War Pick",
+            "category": "Martial Melee Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 5
+        },
+        {
+            "name": "Wargong",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 6,
+            "cost": 30
+        },
+        {
+            "name": "Warhammer",
+            "category": "Martial Melee Weapon",
+            "type": "Bludgeoning",
+            "weight": 2,
+            "cost": 15
+        },
+        {
+            "name": "Warhorse",
+            "category": "Mount",
+            "type": "Speed 60 ft., Carry Capacity 540 lbs.",
+            "weight": null,
+            "cost": 400
+        },
+        {
+            "name": "Warship",
+            "category": "Vehicle (Water)",
+            "type": "Speed 2 1/2 mph",
+            "weight": null,
+            "cost": 25000
+        },
+        {
+            "name": "Waterskin",
+            "category": "Adventuring Gear",
+            "type": "Container",
+            "weight": 5,
+            "cost": null
+        },
+        {
+            "name": "Weaver's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 1
+        },
+        {
+            "name": "Whetstone",
+            "category": "Adventuring Gear",
+            "type": "Utility",
+            "weight": 1,
+            "cost": null
+        },
+        {
+            "name": "Whip",
+            "category": "Martial Melee Weapon",
+            "type": "Slashing",
+            "weight": 3,
+            "cost": 2
+        },
+        {
+            "name": "Whistle-Stick",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": null,
+            "cost": null
+        },
+        {
+            "name": "Willowshade Oil",
+            "category": "Potion",
+            "type": "Explorer's Guide to Wildemount",
+            "weight": null,
+            "cost": 30
+        },
+        {
+            "name": "Woodcarver's Tools",
+            "category": "Tool",
+            "type": "Utility",
+            "weight": 5,
+            "cost": 1
+        },
+        {
+            "name": "Wooden Staff",
+            "category": "Druidic Focus",
+            "type": "Utility",
+            "weight": 4,
+            "cost": 5
+        },
+        {
+            "name": "Wyvern Poison (Injury)",
+            "category": "Poison",
+            "type": "Consumable, Damage, Debuff",
+            "weight": null,
+            "cost": 1200
+        },
+        {
+            "name": "Yarting",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 2,
+            "cost": 35
+        },
+        {
+            "name": "Yellow sapphire",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 1000
+        },
+        {
+            "name": "Yew Wand",
+            "category": "Druidic Focus",
+            "type": "Utility",
+            "weight": 1,
+            "cost": 10
+        },
+        {
+            "name": "Yklwa",
+            "category": "Simple Melee Weapon",
+            "type": "Piercing",
+            "weight": 2,
+            "cost": 1
+        },
+        {
+            "name": "Zircon",
+            "category": "Gemstone",
+            "type": "Gemstone",
+            "weight": null,
+            "cost": 10
+        },
+        {
+            "name": "Zulkoon",
+            "category": "Tool",
+            "type": "Instrument",
+            "weight": 6,
+            "cost": 30
+        }
+    ]
+}
