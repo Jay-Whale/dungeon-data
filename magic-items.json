@@ -5,7 +5,7 @@
         "category": "ammunition",
         "rarity": "uncommon",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 25
     },
     {
         "name": "+1 Armor",
@@ -45,7 +45,7 @@
         "category": "ammunition",
         "rarity": "rare",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 100
     },
     {
         "name": "+2 Armor",
@@ -85,7 +85,7 @@
         "category": "ammunition",
         "rarity": "vety rare",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 400
     },
     {
         "name": "+3 Armor",
@@ -189,7 +189,7 @@
         "category": "armor (plate)",
         "rarity": "rare",
         "attunement": "requires attunement",
-        "cost": 999999999999
+        "cost": 2000
     },
     {
         "name": "Arrow-Catching Shield",
@@ -213,7 +213,7 @@
         "category": "wondrous item",
         "rarity": "rare",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 6000
     },
     {
         "name": "Bag of Devouring",
@@ -221,7 +221,7 @@
         "category": "wondrous item",
         "rarity": "very rare",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 30000
     },
     {
         "name": "Bag of Holding",
@@ -237,7 +237,7 @@
         "category": "wondrous item",
         "rarity": "uncommon",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": 400
     },
     {
         "name": "Bead of Force",
@@ -257,11 +257,11 @@
     },
     {
         "name": "Belt of Giant Strength",
-        "desc": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.  Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.  |table-start| |row-start| |header-start|Type|header-end| |header-start|Strength|header-end| |header-start|Rarity|header-end| |row-end| |row-start| |data-start|Hill giant|data-end| |data-start|21|data-end| |data-start|rare|data-end| |row-end| |row-start| |data-start|Stone/frost giant|data-end| |data-start|23|data-end| |data-start|Very rare|data-end| |row-end| |row-start| |data-start|Fire giant|data-end| |data-start|25|data-end| |data-start|Very rare|data-end| |row-end| |row-start| |data-start|Cloud giant|data-end| |data-start|27|data-end| |data-start|Legendary|data-end| |row-end| |row-start| |data-start|Storm giant|data-end| |data-start|29|data-end| |data-start|Legendary|data-end| |row-end| |table-end|",
+        "desc": "While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.  Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.  |table-start| |row-start| |header-start|Type|header-end| |header-start|Strength|header-end| |header-start|Rarity|header-end| |header-start|Price (GP)|header-end| |row-end| |row-start| |data-start|Hill giant|data-end| |data-start|21|data-end| |data-start|Rare|data-end| |data-start|12000|data-end| |row-end| |row-start| |data-start|Stone/frost giant|data-end| |data-start|23|data-end| |data-start|Very Rare|data-end| |data-start|30000|data-end| |row-end| |row-start| |data-start|Fire giant|data-end| |data-start|25|data-end| |data-start|Very Rare|data-end| |data-start|40000|data-end| |row-end| |row-start| |data-start|Cloud giant|data-end| |data-start|27|data-end| |data-start|Legendary|data-end| |data-start|100000|data-end| |row-end| |row-start| |data-start|Storm giant|data-end| |data-start|29|data-end| |data-start|Legendary|data-end| |data-start|200000|data-end| |row-end| |table-end|",
         "category": "wondrous item",
         "rarity": "varies",
         "attunement": "requires attunement",
-        "cost": 999999999999
+        "cost": "12000-200000"
     },
     {
         "name": "Berserker Axe",
@@ -269,7 +269,7 @@
         "category": "weapon (any axe)",
         "rarity": "rare",
         "attunement": "requires attunement",
-        "cost": 999999999999
+        "cost": 12000
     },
     {
         "name": "Boots of Elvenkind",
@@ -365,7 +365,7 @@
         "category": "wondrous item",
         "rarity": "very rare",
         "attunement": "requires attunement",
-        "cost": 999999999999
+        "cost": 15000
     },
     {
         "name": "Cape of the Mountebank",
@@ -517,7 +517,7 @@
         "category": "wondrous item",
         "rarity": "legendary",
         "attunement": "no",
-        "cost": 999999999999
+        "cost": "50000-100000"
     },    
     {
         "name": "Defender",
@@ -533,7 +533,7 @@
         "category": "armor (plate)",
         "rarity": "very rare",
         "attunement": "requires attunement",
-        "cost": 999999999999
+        "cost": 30000
     },
     {
         "name": "Dimensional Shackles",
@@ -605,15 +605,7 @@
         "category": "wondrous item",
         "rarity": "uncommon",
         "attunement": "no",
-        "cost": 999999999999
-    },
-    {
-        "name": "Efreeti Bottle",
-        "desc": "This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.  The first time the bottle is opened, the GM rolls to determine what happens.  |table-start| |row-start| |header-start|d100|header-end| |header-start|Effect|header-end| |row-end| |row-start| |data-start|01-10|data-end| |data-start|The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.|data-end| |row-end| |row-start| |data-start|11-90|data-end| |data-start|The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.|data-end| |row-end| |row-start| |data-start|91-100|data-end| |data-start|The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.|data-end| |row-end| |table-end|",
-        "category": "wondrous item",
-        "rarity": "very rare",
-        "attunement": "no",
-        "cost": 999999999999
+        "cost": 1800
     },
     {
         "name": "Elemental Gem",

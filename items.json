@@ -96,14 +96,6 @@
         "cost": 5
     },
     {
-        "name": "Antigravity Belt",
-        "category": "Adventuring Gear",
-        "desc": "",
-        "tags": "",
-        "weight": null,
-        "cost": null
-    },
-    {
         "name": "Antimatter Rifle",
         "category": "Firearms Ranged Weapon",
         "desc": "It’s up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn’t have such proficiency. During their downtime, characters can use the training rules in the Player’s Handbook to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use. |table-start| |row-start| |header-start|Name|header-end| |header-start|Cost|header-end| |header-start|Damage|header-end| |header-start|Weight|header-end| |header-start|Properties|header-end| |row-end| |row-start| |data-start|Antimatter Rifle|data-end| |data-start|6d8 necrotic|data-end| |data-start|10 lbs|data-end| |data-start|Ammunition (Firearms), (Range 120/360), Reload, Two-Handed|data-end| |row-end| |table-end|",
